@@ -28,3 +28,7 @@ Os modelos medem aço, betão e cofragem efetivamente executados no período, co
 ## Memórias por unidade executada
 
 [Memorias_Unitarias_707.xlsx](planilhas/Memorias_Unitarias_707.xlsx): bases por metro, m² ou unidade, extraídas das 18 abas da Barba. Inclui 46 tipos, memórias de armadura e execução mensal independente por material. Cortes e critérios não confirmados ficam pendentes. [Análise e utilização](docs/MEMORIAS_UNITARIAS.md).
+
+## Revisão dos pilares pelo PDF
+
+[Modelo revisto](planilhas/Memorias_Unitarias_707_Revisao_Pilares.xlsx): 19 troços conferidos, critérios de emenda e contagem mensal de cintas. Cortes de cintas e alturas ainda pendentes. [Conferência, fórmulas e limites](docs/REVISAO_PILARES_PDF.md).

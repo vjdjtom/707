@@ -68,3 +68,7 @@ Os dados sintéticos dos testes foram removidos antes da exportação. Inspeçã
 
 ## Reprodutibilidade
 O script scripts/memorias_unitarias.mjs usa @oai/artifact-tool do runtime Codex e a extração docs/dados_barba_extraidos.json. A extração preserva valores e fórmulas da fonte para rastreabilidade; não representa dados recalculados. Executar apenas para regenerar o modelo, nunca para sobrescrever um mês preenchido. O XLSX é utilizável diretamente sem o script.
+
+## Revisão posterior pelo PDF — 28/09/2026
+
+As referências acima à ausência de conferência do PDF descrevem a etapa inicial. Usar agora o [modelo revisto](../planilhas/Memorias_Unitarias_707_Revisao_Pilares.xlsx) e a [conferência dos pilares](REVISAO_PILARES_PDF.md). O PDF contém muros MS/Pb, paredes Pa e escada E1; a declaração da aba NOTAS DO PROJETO citada no achado 10 não deve ser tomada como prova de ausência desses elementos. Na revisão, Acertos aço!E é fórmula, K seleciona o critério e L recebe o comprimento livre.

@@ -73,3 +73,7 @@ Não inventar preços, alturas ou medições reais. Manter exemplos assinalados 
 
 ## Atualização — bases unitárias por elemento
 Foi verificada internamente a Barba_Atualizada.xlsx (18 abas) e criado [Memorias_Unitarias_707.xlsx](../planilhas/Memorias_Unitarias_707.xlsx), com 46 tipos e 152 componentes de armadura. Ver [MEMORIAS_UNITARIAS.md](MEMORIAS_UNITARIAS.md) para a análise, decisões, testes e pendências. O aço separa a base repetitiva dos acertos locais; cortes em falta ficam pendentes. A fonte original e os autos anteriores permanecem intactos. As limitações da revisão inicial acima referem-se à etapa anterior: esta nova etapa leu as planilhas, mas não fez conferência independente do PDF.
+
+## Atualização — conferência dos pilares no PDF
+
+Criado [Memorias_Unitarias_707_Revisao_Pilares.xlsx](../planilhas/Memorias_Unitarias_707_Revisao_Pilares.xlsx), com nove folhas. Conferidos 19 troços, secções e armadura longitudinal. Acrescentados critérios do desenho 05 para emendas/segmentos e folha de contagem de cintas por zona e mês. Cortes desenvolvidos e alturas continuam pendentes; aço total não foi finalizado. O PDF contém muros, paredes e escada E1, corrigindo a declaração anterior de ausência de muros. Os restantes elementos aguardam conferência detalhada. Ver [REVISAO_PILARES_PDF.md](REVISAO_PILARES_PDF.md) para fontes, uso, testes e próximos passos. Original Barba e entregas anteriores preservados. Nenhuma execução real adicionada.
