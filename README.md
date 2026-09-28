@@ -16,3 +16,11 @@ Projeto de levantamento de quantidades (betão, aço, cofragem) e autos de medi�
 ## Uso
 pip install openpyxl
 cd scripts && python adicionar_autos_marinel_seculum.py
+
+## Autos mensais de execução
+
+- [Modelo em branco](planilhas/Modelo_Auto_Mensal_707.xlsx)
+- [Exemplo fictício — setembro de 2026](planilhas/Auto_Mensal_707_TESTE_Setembro_2026.xlsx)
+- [Contexto, critérios, testes e pendências](docs/CONTINUIDADE_AUTOS.md)
+
+Os modelos medem aço, betão e cofragem efetivamente executados no período, com memórias por elemento e piso. O exemplo é fictício e não constitui auto aprovado. Preservar os autos fechados e atualizar o registo de continuidade a cada entrega.
