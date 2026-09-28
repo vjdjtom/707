@@ -69,3 +69,7 @@ A revisão inicial foi do README e dos dois scripts. Não houve conferência int
 ## Próximos dados necessários
 Para converter o teste em auto real: período, subempreiteiro, artigos/preços e critérios do contrato, anterior aprovado, elementos e quantidades efetivamente executados, dimensões e desenhos/pormenores de armaduras com referências de medição.
 Não inventar preços, alturas ou medições reais. Manter exemplos assinalados como fictícios.
+
+
+## Atualização — bases unitárias por elemento
+Foi verificada internamente a Barba_Atualizada.xlsx (18 abas) e criado [Memorias_Unitarias_707.xlsx](../planilhas/Memorias_Unitarias_707.xlsx), com 46 tipos e 152 componentes de armadura. Ver [MEMORIAS_UNITARIAS.md](MEMORIAS_UNITARIAS.md) para a análise, decisões, testes e pendências. O aço separa a base repetitiva dos acertos locais; cortes em falta ficam pendentes. A fonte original e os autos anteriores permanecem intactos. As limitações da revisão inicial acima referem-se à etapa anterior: esta nova etapa leu as planilhas, mas não fez conferência independente do PDF.

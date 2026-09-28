@@ -24,3 +24,7 @@ cd scripts && python adicionar_autos_marinel_seculum.py
 - [Contexto, critérios, testes e pendências](docs/CONTINUIDADE_AUTOS.md)
 
 Os modelos medem aço, betão e cofragem efetivamente executados no período, com memórias por elemento e piso. O exemplo é fictício e não constitui auto aprovado. Preservar os autos fechados e atualizar o registo de continuidade a cada entrega.
+
+## Memórias por unidade executada
+
+[Memorias_Unitarias_707.xlsx](planilhas/Memorias_Unitarias_707.xlsx): bases por metro, m² ou unidade, extraídas das 18 abas da Barba. Inclui 46 tipos, memórias de armadura e execução mensal independente por material. Cortes e critérios não confirmados ficam pendentes. [Análise e utilização](docs/MEMORIAS_UNITARIAS.md).
