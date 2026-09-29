@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "cadastro_documental_tipos": "base_tecnica/estabilidade_20260928/manifesto.json",
+  "cadastro_fundacoes_vigente": "base_tecnica/implantacao_fundacoes_20260929/manifesto.json",
+  "ocorrencias_fundacoes_vigentes": "base_tecnica/implantacao_fundacoes_20260929/ocorrencias_consolidadas.csv",
+  "tipos_pilares_legados": "base_tecnica/tipos_pilares.csv",
+  "elementos_execucao": "base_tecnica/elementos.csv",
+  "aviso": "O lote documental anterior contém inversão D/E em 25 observações. Aplicar a visão consolidada; IDs históricos permanecem inalterados."
+}

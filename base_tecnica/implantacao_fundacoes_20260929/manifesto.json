@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "lote": "implantacao_fundacoes_20260929",
+  "commit_base": "6bab7d36170c42173c36ebb1f7952202aec9b10a",
+  "fonte": {
+    "fonte_id": "EST-260928-1",
+    "nome_original": "Estabilidade 260928(1).pdf",
+    "arquivo": "docs/fontes/estabilidade_20260928/Estabilidade_260928_1.pdf",
+    "sha256": "be35a8fcf8f1c9bffec93659edb3065c124f0c56defd42a0c18aa084b2f7ca01",
+    "bytes": 26225623,
+    "paginas": 63,
+    "proveniencia": "Anexo da conversa 6abb943f-a64c-83ed-bcc1-9aa51a420c71",
+    "processo": "L-337/21",
+    "fase": "EXECUCAO",
+    "especialidade": "ESTABILIDADE",
+    "autor": "FERCA"
+  },
+  "historico_csv_sha256": {
+    "base_tecnica/estabilidade_20260928/tipos_paredes.csv": "5af3fb154106d8b874266dba636926493286a3bf9ad1bbd9657e6d9371f9724e",
+    "base_tecnica/estabilidade_20260928/criterios_e_notas.csv": "f2f82751ed47d121732ff37b27b7488762e0d2aaabe7bf381d924fee2c41d389",
+    "base_tecnica/estabilidade_20260928/trocos_tipos_pilares.csv": "c962929109ba2b05cc55867f77df335c8872f90e821fa757557036a91c76a79b",
+    "base_tecnica/estabilidade_20260928/tipos_ligacoes_fundacao.csv": "88b5aa5abf21cfea739281f253cdba3962103bf3de5c7d7eccad865f291f5801",
+    "base_tecnica/estabilidade_20260928/pormenores_metalicos.csv": "9d84f9a687311a793b3b6a178fd458928339382cffe6a4a88d866ed7cbdaa154",
+    "base_tecnica/estabilidade_20260928/trocos_tipos_metalicos.csv": "5ea088cfe46fa360734a4142b96548f352784530a9cc2a2334fa10ded4967e39",
+    "base_tecnica/estabilidade_20260928/desenhos.csv": "27f2097f1e053277bba47f9fb3483c35e7d39092fda59a257decaadcc3e109ba",
+    "base_tecnica/estabilidade_20260928/evidencias.csv": "555618d92b091c173e6d95731d534551dc93666d74473f5c422e9201471c220f",
+    "base_tecnica/estabilidade_20260928/tipos_sapatas.csv": "6b4bf877e1598503daf2258457a5de28d781a341843ac4fc848b78700efc06f2",
+    "base_tecnica/estabilidade_20260928/ocorrencias_fundacoes.csv": "9e03319cea95fd8d2e12575d9686959a16d3388ca96dd135593faea70dda90e3",
+    "base_tecnica/estabilidade_20260928/tipos_muros.csv": "d6b2322004bb61ecb8731fdb82b590d51a2b5badd186d4f7a531adf093eff729",
+    "base_tecnica/estabilidade_20260928/pendencias.csv": "2ffe3233d1ef25bbee9f52b1be9778c57e8b610a8600a8937040f93c8b5d2e51"
+  },
+  "tabelas": {
+    "fracoes_e_grades": {
+      "linhas": 10,
+      "colunas": [
+        "fracao",
+        "desenho_fundacoes",
+        "eixo_numerico_inicial",
+        "eixo_numerico_final",
+        "eixo_alfabetico_inicial",
+        "eixo_alfabetico_final",
+        "evidencia_fundacoes",
+        "evidencia_identidade",
+        "estado"
+      ]
+    },
+    "distancias_eixos": {
+      "linhas": 106,
+      "colunas": [
+        "intervalo_id",
+        "desenho",
+        "grupo",
+        "direcao",
+        "eixo_inicial",
+        "eixo_final",
+        "distancia_m",
+        "estado",
+        "evidencia_id"
+      ]
+    },
+    "retificacoes": {
+      "linhas": 25,
+      "colunas": [
+        "retificacao_id",
+        "arquivo_original",
+        "registro_id",
+        "campo",
+        "valor_anterior",
+        "valor_corrigido",
+        "motivo",
+        "evidencia_id",
+        "estado"
+      ]
+    },
+    "ocorrencias_consolidadas": {
+      "linhas": 130,
+      "colunas": [
+        "ocorrencia_id",
+        "tipo_id",
+        "fracao",
+        "localizador",
+        "faixa_eixos_da_fracao",
+        "eixo_exato_1",
+        "eixo_exato_2",
+        "cota_fundacao_m",
+        "geometria_liquida_m3",
+        "estado_identificacao",
+        "estado_cadastro_fisico",
+        "elemento_id",
+        "evidencia_id",
+        "observacoes",
+        "fracao_registro_original",
+        "retificacao_id",
+        "evidencia_id_original"
+      ]
+    },
+    "referencias_apoios": {
+      "linhas": 140,
+      "colunas": [
+        "apoio_ref_id",
+        "ocorrencia_id",
+        "fracao",
+        "designacao_apoio",
+        "eixo_numerico_ref",
+        "relacao_x",
+        "afastamento_x_m",
+        "sentido_x",
+        "eixo_alfabetico_ref",
+        "relacao_y",
+        "afastamento_y_m",
+        "sentido_y",
+        "estado_leitura",
+        "estado_implantacao_sapata",
+        "centro_sapata_confirmado",
+        "evidencia_id",
+        "observacoes"
+      ]
+    },
+    "cotas_pontuais": {
+      "linhas": 10,
+      "colunas": [
+        "cota_id",
+        "ocorrencia_id",
+        "fracao",
+        "valor_indicado_m",
+        "estado_leitura",
+        "face_referida",
+        "referencial_altimetrico",
+        "cota_base_sapata_m",
+        "evidencia_id",
+        "observacoes"
+      ]
+    },
+    "limites_sapatas": {
+      "linhas": 130,
+      "colunas": [
+        "ocorrencia_id",
+        "fracao",
+        "tipo_id",
+        "forma_nominal",
+        "dimensao_horizontal_nominal_m",
+        "dimensao_vertical_nominal_m",
+        "espessura_nominal_m",
+        "origem_dimensoes",
+        "origem_coordenadas_poligono",
+        "poligono_liquido",
+        "descontos_intersecoes",
+        "volume_liquido_m3",
+        "estado_limites_liquidos",
+        "evidencia_planta",
+        "evidencia_tipo",
+        "observacoes"
+      ]
+    },
+    "evidencias": {
+      "linhas": 24,
+      "colunas": [
+        "evidencia_id",
+        "fonte_id",
+        "desenho",
+        "pagina_pdf",
+        "revisao",
+        "x0",
+        "y0",
+        "x1",
+        "y1",
+        "descricao"
+      ]
+    }
+  },
+  "vigencia": {
+    "ocorrencias": "base_tecnica/implantacao_fundacoes_20260929/ocorrencias_consolidadas.csv",
+    "regra": "Usar a visão consolidada. IDs originais são opacos e não devem ser decodificados para inferir fração.",
+    "retificacao": "Somente fracao de 25 registros D02 retificada. Sem renumeração ou exclusão."
+  },
+  "limites": "Alinhamento de apoio não é centro de sapata. Nenhum quantitativo, execução, escavação ou fabrico liberado."
+}

@@ -96,6 +96,8 @@ def main() -> int:
     # Mantém os validadores separados, mas inclui ambos no comando principal.
     from validar_estabilidade_01_06 import validate
     erros.extend(validate(ROOT))
+    from validar_implantacao_fundacoes import validate as validate_implantacao
+    erros.extend(validate_implantacao(ROOT))
 
     if erros:
         print("BASE TÉCNICA INVÁLIDA")

@@ -57,3 +57,9 @@ Os autos, planilhas, PDF antigo de pilares, tipos e armaduras anteriores e regis
 - Reprodução das 45 ampliações a partir do PDF preservado; inspeção das regiões de mapas e pormenores relevantes.
 
 Executar `python3 scripts/validar_base_tecnica.py` para validar a base anterior e o novo lote. O validador documental também funciona separadamente. A integridade dos arquivos não substitui a resolução técnica das pendências.
+
+## Continuidade de 29/09/2026 — implantação e correção D/E
+
+Na conferência seguinte, os cartuchos dos desenhos 13 e 15 mostraram que a leitura anterior tinha trocado as frações D e E. A fração D é o conjunto de eixos 25–32; E é 33–40. O lote [implantacao_fundacoes_20260929](../base_tecnica/implantacao_fundacoes_20260929/README.md) retifica as 25 ocorrências afetadas, mantém IDs e CSV original, registra a justificativa e cria a visão consolidada vigente.
+
+Também foram registradas as cadeias de distâncias dos eixos, as marcas de eixo (`''` em E e `'` em F–J), cotas pontuais de sapatas terminais e referências dos apoios. O afastamento cotado é mantido separado da identificação do eixo; nenhum centro de sapata foi inferido. A geometria líquida e o volume permanecem pendentes.

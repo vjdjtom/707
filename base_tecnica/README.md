@@ -39,3 +39,5 @@ Para pilares, os valores atualmente cadastrados representam apenas **armadura lo
 ## Lote documental dos desenhos 01-06 (29/09/2026)
 
 O [cadastro de estabilidade](estabilidade_20260928/README.md) acrescenta fontes, evidências, tipos de fundações, muros, paredes, troços de pilares e metálicos, além de ocorrências gráficas e pendências. O PDF completo original está preservado com hash. As observações `OBS-` ainda não são elementos liberados para execução; não devem alimentar autos diretamente. Os registros anteriores permanecem preservados. O comando `python3 scripts/validar_base_tecnica.py` agora verifica também esse lote.
+
+A visão vigente das ocorrências de fundações está em [implantacao_fundacoes_20260929](implantacao_fundacoes_20260929/README.md). Ela retifica a inversão D/E detectada na etapa seguinte sem apagar o CSV histórico; usar `ocorrencias_consolidadas.csv` para novas relações. Nenhuma retificação libera quantitativos ou execução.

@@ -1,0 +1,25 @@
+evidencia_id;fonte_id;desenho;pagina_pdf;revisao;x0;y0;x1;y1;descricao
+IMP-D01-GRADE;EST-260928-1;01;4;A;117;46;697;265;Planta de fundações, linhas de eixos, cotas e rótulos periféricos. Não medir por pixels.
+IMP-D02-GRADE;EST-260928-1;02;5;A;25;45;624;391;Planta de fundações, linhas de eixos, cotas e rótulos periféricos. Não medir por pixels.
+IMP-D03-GRADE;EST-260928-1;03;6;A;28;43;575;379;Planta de fundações, linhas de eixos, cotas e rótulos periféricos. Não medir por pixels.
+IMP-D04-GRADE;EST-260928-1;04;7;A;118;15;695;269;Planta de fundações, linhas de eixos, cotas e rótulos periféricos. Não medir por pixels.
+IMP-FRACAO-A;EST-260928-1;07;10;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-B;EST-260928-1;09;12;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-C;EST-260928-1;11;14;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-D;EST-260928-1;13;16;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-E;EST-260928-1;15;18;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-F;EST-260928-1;17;20;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-G;EST-260928-1;19;22;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-H;EST-260928-1;21;24;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-I;EST-260928-1;23;26;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-FRACAO-J;EST-260928-1;25;28;A;0;0;800;600;Conferência somente da identificação da fração, cartucho e numeração da grade. Não constitui extração dos pisos deste desenho.
+IMP-COTA-A;EST-260928-1;01;4;A;248;222;274;242;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-B;EST-260928-1;01;4;A;431;219;459;243;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-C;EST-260928-1;01;4;A;465;219;492;243;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-D;EST-260928-1;02;5;A;319;280;362;315;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-E;EST-260928-1;02;5;A;377;317;422;344;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-G;EST-260928-1;03;6;A;257;260;303;290;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-F;EST-260928-1;03;6;A;350;260;392;289;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-J;EST-260928-1;04;7;A;270;181;298;203;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-I;EST-260928-1;04;7;A;447;178;479;202;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.
+IMP-COTA-H;EST-260928-1;04;7;A;626;179;670;202;Chamada vertical da sapata terminal S3 junto ao eixo A/A'/A''. Na fração D a chamada não foi confirmada.

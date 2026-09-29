@@ -83,3 +83,11 @@ Criado [Memorias_Unitarias_707_Revisao_Pilares.xlsx](../planilhas/Memorias_Unita
 Criado o [lote documental de estabilidade](../base_tecnica/estabilidade_20260928/README.md) a partir do PDF completo preservado no repositório, com hash, 6 desenhos e 45 regiões de evidência. Inclui mapas S1-S7, LF1/VF1/LF2, 130 ocorrências gráficas de fundações, 19 troços típicos de pilares, 6 muros, 3 variantes de paredes, 23 troços metálicos e 9 pormenores de ligação. Ver [relatório da etapa](CADASTRO_ESTABILIDADE_01_06_20260929.md).
 
 As ocorrências gráficas ainda têm eixos exatos, cotas e interfaces pendentes. Não equivalem a elementos de execução. Detectadas divergências de chumbadouros no pormenor C e de dimensões de chapa no H; ambas ficaram PENDENTES. Nenhum quantitativo final ou auto foi gerado. Preservados os históricos, tipos/armaduras anteriores e a execução. Próxima continuidade: resolver as pendências por elemento, cruzando geometria e cortes 07-26 quando necessário, antes de calcular ou importar execução.
+
+## Atualização de 29/09/2026 — implantação das fundações e retificação D/E
+
+Foi criada a visão vigente de implantação em [implantacao_fundacoes_20260929](../base_tecnica/implantacao_fundacoes_20260929/). A leitura dos desenhos 13 e 15 confirmou que a fração D usa os eixos 25–32 e a fração E usa os eixos 33–40; as 25 ocorrências afetadas foram retificadas numa tabela nova, mantendo os IDs, o CSV histórico e os hashes anteriores.
+
+O lote registra 10 grades de fração, 106 intervalos entre eixos, 140 referências de apoios, 10 cotas pontuais e 130 ocorrências consolidadas. Os eixos de apoio foram separados do centro geométrico da sapata. Dimensões nominais por tipo podem ser consultadas, mas limites líquidos, cotas altimétricas de referência, centros de sapata, volumes e qualquer medição de execução continuam PENDENTES. Nenhuma execução ou quantitativo final foi criado.
+
+Validações executadas: `validar_implantacao_fundacoes.py`, `validar_base_tecnica.py`, verificação de espaços no diff e compilação sintática do novo validador. Próxima etapa: cruzar cada apoio com a definição geométrica e cortes dos desenhos 07–26, liberando somente os campos confirmados por evidência.
