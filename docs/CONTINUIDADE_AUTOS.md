@@ -1,5 +1,11 @@
 # Continuidade — autos mensais da obra 707
 
+## Cálculo de parcelas de aço — 29/09/2026
+
+Entregue [Memorias_Aco_707_Parcelas_Calculadas.xlsx](../planilhas/Memorias_Aco_707_Parcelas_Calculadas.xlsx), com as nove folhas anteriores preservadas e três folhas novas: Emendas calculadas, Curvas e caudas e Aço projeto por tipo. Calculados 32 grupos longitudinais dos 19 troços típicos, emendas de 50Ø por varão/grupo e seis parcelas geométricas de curvas/caudas Ø8. Ver [memória da etapa](../base_tecnica/aco_parcelas_20260929/README.md). Testados recálculo por alteração de entradas e bloqueio de totais incompletos; dados sintéticos removidos. Recálculo independente no LibreOffice confirmou 7,5744 kg para 6 emendas Ø16, ausência de erros de fórmula e PENDENTE no total incompleto. Não houve teste interativo no Excel nativo.
+
+Esta é uma entrega parcial de cálculo: não encerra cortes completos de cintas, alturas por ocorrência, arranques, sapatas, paredes, vigas ou lajes. Não converte as referências de emenda em execução. O script calcular_parcelas_aco.mjs recebe diretório de trabalho como argumento e gera a cópia em outputs nesse diretório; usa o runtime de planilhas disponibilizado pelo Codex.
+
 ## Revisão de ANALISE_NORMAS.md — 29/09/2026
 
 Revisado o documento recebido da main no commit e7c3897, com ligação permanente ao original. Corrigidos mínimos de sobreposição, interpretação de ganchos, sinal da correção do perímetro, duplicação de ganchos, contagem por posições e coeficiente da massa linear. Retiradas atribuições normativas sem cláusula verificável e separados desperdício de compra e execução medida. Conferência com material técnico JRC e verificações aritméticas de contagem, perímetro e massa. A edição contratual/Anexo Nacional e os cortes reais continuam PENDENTES. Esta etapa altera apenas documentação; as planilhas e os quantitativos não foram atualizados.
