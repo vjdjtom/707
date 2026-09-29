@@ -35,3 +35,7 @@ Peso linear calculado por:
 com `L` em metros e `Ø` em milímetros.
 
 Para pilares, os valores atualmente cadastrados representam apenas **armadura longitudinal por metro**. Cintas, emendas, arranques, dobras e acertos locais permanecem separados e não estão embutidos nesses valores, salvo indicação explícita.
+
+## Lote documental dos desenhos 01-06 (29/09/2026)
+
+O [cadastro de estabilidade](estabilidade_20260928/README.md) acrescenta fontes, evidências, tipos de fundações, muros, paredes, troços de pilares e metálicos, além de ocorrências gráficas e pendências. O PDF completo original está preservado com hash. As observações `OBS-` ainda não são elementos liberados para execução; não devem alimentar autos diretamente. Os registros anteriores permanecem preservados. O comando `python3 scripts/validar_base_tecnica.py` agora verifica também esse lote.

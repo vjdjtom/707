@@ -92,6 +92,11 @@ def main() -> int:
         except ValueError:
             erros.append(f"execucao.csv:{i}: percentagem inválida")
 
+    # O lote documental possui esquema próprio: PENDENTE não é número nem zero.
+    # Mantém os validadores separados, mas inclui ambos no comando principal.
+    from validar_estabilidade_01_06 import validate
+    erros.extend(validate(ROOT))
+
     if erros:
         print("BASE TÉCNICA INVÁLIDA")
         for erro in erros:
@@ -104,6 +109,7 @@ def main() -> int:
     print(f"Elementos reais: {len(elementos)}")
     print(f"Registos de execução: {len(execucao)}")
     print(f"Artigos contratuais: {len(artigos)}")
+    print("Lote documental 01-06: integridade validada; quantitativos finais PENDENTES")
     return 0
 
 

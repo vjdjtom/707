@@ -77,3 +77,9 @@ Foi verificada internamente a Barba_Atualizada.xlsx (18 abas) e criado [Memorias
 ## Atualização — conferência dos pilares no PDF
 
 Criado [Memorias_Unitarias_707_Revisao_Pilares.xlsx](../planilhas/Memorias_Unitarias_707_Revisao_Pilares.xlsx), com nove folhas. Conferidos 19 troços, secções e armadura longitudinal. Acrescentados critérios do desenho 05 para emendas/segmentos e folha de contagem de cintas por zona e mês. Cortes desenvolvidos e alturas continuam pendentes; aço total não foi finalizado. O PDF contém muros, paredes e escada E1, corrigindo a declaração anterior de ausência de muros. Os restantes elementos aguardam conferência detalhada. Ver [REVISAO_PILARES_PDF.md](REVISAO_PILARES_PDF.md) para fontes, uso, testes e próximos passos. Original Barba e entregas anteriores preservados. Nenhuma execução real adicionada.
+
+## Atualização de 29/09/2026 - PDF completo e desenhos 01-06
+
+Criado o [lote documental de estabilidade](../base_tecnica/estabilidade_20260928/README.md) a partir do PDF completo preservado no repositório, com hash, 6 desenhos e 45 regiões de evidência. Inclui mapas S1-S7, LF1/VF1/LF2, 130 ocorrências gráficas de fundações, 19 troços típicos de pilares, 6 muros, 3 variantes de paredes, 23 troços metálicos e 9 pormenores de ligação. Ver [relatório da etapa](CADASTRO_ESTABILIDADE_01_06_20260929.md).
+
+As ocorrências gráficas ainda têm eixos exatos, cotas e interfaces pendentes. Não equivalem a elementos de execução. Detectadas divergências de chumbadouros no pormenor C e de dimensões de chapa no H; ambas ficaram PENDENTES. Nenhum quantitativo final ou auto foi gerado. Preservados os históricos, tipos/armaduras anteriores e a execução. Próxima continuidade: resolver as pendências por elemento, cruzando geometria e cortes 07-26 quando necessário, antes de calcular ou importar execução.

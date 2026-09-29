@@ -92,3 +92,7 @@ O aço cadastrado nesta fase corresponde à armadura longitudinal por metro. Cin
 3. Modelar lajes por painel, incluindo geometria líquida, bandas, zonas maciças/aligeiradas e grupos de armaduras independentes.
 4. Vincular artigos reais do contrato e subempreiteiros.
 5. Importar a execução mensal e gerar autos exclusivamente dessa camada.
+
+## Extensão documental de 29/09/2026
+
+O lote `base_tecnica/estabilidade_20260928/` adiciona uma camada entre fonte e elemento: **observação gráfica**. IDs `OBS-` permitem conservar o que já foi identificado nas plantas, mesmo quando eixos, cotas ou interfaces ainda precisam de confirmação. Não são IDs de execução e não devem entrar em autos. O estado da leitura de cada registro é separado do estado do quantitativo. Referências por fonte/desenho/revisão/página/região e hash do PDF permitem reproduzir a conferência. Ver o [README do lote](../base_tecnica/estabilidade_20260928/README.md) e a lista estruturada de pendências. O cadastro legado de pilares foi reconferido e preservado.
