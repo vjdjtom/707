@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "lote": "estabilidade_20260928",
+  "data_leitura": "2026-09-29",
+  "commit_base": "86e4859ee454d69dc99621a5013cd887372e7dfb",
+  "fonte": {
+    "fonte_id": "EST-260928-1",
+    "nome_original": "Estabilidade 260928(1).pdf",
+    "arquivo": "docs/fontes/estabilidade_20260928/Estabilidade_260928_1.pdf",
+    "sha256": "be35a8fcf8f1c9bffec93659edb3065c124f0c56defd42a0c18aa084b2f7ca01",
+    "bytes": 26225623,
+    "paginas": 63,
+    "proveniencia": "Anexo da conversa 6abb943f-a64c-83ed-bcc1-9aa51a420c71",
+    "processo": "L-337/21",
+    "fase": "EXECUCAO",
+    "especialidade": "ESTABILIDADE",
+    "autor": "FERCA"
+  },
+  "coordenadas_evidencias": {
+    "unidade": "pontos PDF",
+    "origem": "superior esquerdo",
+    "largura_pagina": 800,
+    "altura_pagina": 600,
+    "paginas_base": 1,
+    "nota": "Coordenadas servem apenas para localizar evidência; proibido medir geometria da obra por pixels/escala desta exportação."
+  },
+  "convencoes": {
+    "csv": "UTF-8; separador ponto e vírgula; decimal vírgula",
+    "pendente": "PENDENTE é desconhecido, nunca zero.",
+    "nao_aplicavel": "NAO_APLICAVEL é campo não aplicável.",
+    "confirmado": "CONFIRMADO refere-se à leitura do dado no desenho, não à aprovação técnica, fabrico ou execução.",
+    "tipos": "D01-S2 e D02-S2 são transcrições por fonte do mesmo tipo, não duas unidades físicas.",
+    "ocorrencias": "OBS- identifica observação gráfica em planta, ainda não elemento físico liberado para autos."
+  },
+  "tabelas": {
+    "desenhos": {
+      "linhas": 6,
+      "colunas": [
+        "desenho",
+        "fonte_id",
+        "pagina_pdf",
+        "fracoes",
+        "designacao",
+        "revisao",
+        "data_revisao",
+        "emissao",
+        "estado_identificacao",
+        "estado_quantitativo",
+        "referencia_indice",
+        "limite"
+      ]
+    },
+    "tipos_sapatas": {
+      "linhas": 28,
+      "colunas": [
+        "tipo_id",
+        "designacao",
+        "a_m",
+        "b_m",
+        "h_m",
+        "ai_diametro_mm",
+        "ai_espacamento_m",
+        "as_diametro_mm",
+        "as_espacamento_m",
+        "ab_quantidade",
+        "ab_diametro_mm",
+        "tensao_contacto_admissivel_mpa",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_geometria",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "tipos_ligacoes_fundacao": {
+      "linhas": 12,
+      "colunas": [
+        "tipo_id",
+        "designacao",
+        "b_m",
+        "h_m",
+        "armadura_superior_literal",
+        "armadura_inferior_literal",
+        "armadura_lateral_literal",
+        "estribo_diametro_mm",
+        "estribo_espacamento_m",
+        "comprimento_corte_estribo_m",
+        "comprimento_instancia_m",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_quantitativo"
+      ]
+    },
+    "trocos_tipos_pilares": {
+      "linhas": 19,
+      "colunas": [
+        "troco_tipo_id",
+        "tipo_id_legado",
+        "piso_inferior",
+        "piso_superior",
+        "secao_b_m",
+        "secao_h_m",
+        "diametro_m",
+        "armadura_longitudinal_literal",
+        "cintas_diametro_mm",
+        "cintas_espacamento_base_m",
+        "altura_real_m",
+        "corte_desenvolvido_cintas_m",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "tipos_muros": {
+      "linhas": 6,
+      "colunas": [
+        "tipo_id",
+        "designacao",
+        "espessura_fuste_m",
+        "largura_sapata_m",
+        "altura_sapata_m",
+        "betao_limpeza_m",
+        "altura_max_cota_desenho_m",
+        "enterramento_min_cota_desenho_m",
+        "armadura_coroamento_literal",
+        "armadura_fuste_literal",
+        "armadura_base_literal",
+        "altura_real_m",
+        "extensao_real_m",
+        "desenvolvimentos_armaduras",
+        "atribuicao_completa_por_face",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "tipos_paredes": {
+      "linhas": 3,
+      "colunas": [
+        "tipo_id",
+        "designacao",
+        "piso_inferior",
+        "piso_superior",
+        "forma",
+        "dimensao_principal_m",
+        "espessura_m",
+        "segunda_dimensao_exterior_m",
+        "armadura_literal",
+        "cintas_diametro_mm",
+        "cintas_espacamento_m",
+        "altura_real_m",
+        "desenvolvimentos_armaduras",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "trocos_tipos_metalicos": {
+      "linhas": 23,
+      "colunas": [
+        "troco_tipo_id",
+        "grupo_fracoes",
+        "designacao",
+        "piso_inferior",
+        "piso_superior",
+        "perfil_literal",
+        "comprimento_cotado_m",
+        "pormenor_inferior",
+        "pormenor_superior",
+        "altura_entre_pisos_m",
+        "comprimento_corte_fabricacao_m",
+        "massa_linear_kg_m",
+        "numero_ocorrencias",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "pormenores_metalicos": {
+      "linhas": 9,
+      "colunas": [
+        "pormenor_id",
+        "designacao",
+        "perfil_literal",
+        "chapa_b_mm",
+        "chapa_h_mm",
+        "chapa_espessura_mm",
+        "numero_chapas_indicado",
+        "chumbadouros_quantidade_indicada",
+        "chumbadouros_diametro_mm",
+        "comprimento_desenvolvido_chumbadouro_mm",
+        "soldaduras_dimensionadas",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_compatibilizacao",
+        "estado_quantitativo",
+        "observacoes"
+      ]
+    },
+    "criterios_e_notas": {
+      "linhas": 13,
+      "colunas": [
+        "criterio_id",
+        "ambito",
+        "transcricao",
+        "aplicacao",
+        "evidencia_id",
+        "estado_leitura",
+        "estado_aplicacao_instancias"
+      ]
+    },
+    "ocorrencias_fundacoes": {
+      "linhas": 130,
+      "colunas": [
+        "ocorrencia_id",
+        "tipo_id",
+        "fracao",
+        "localizador",
+        "faixa_eixos_da_fracao",
+        "eixo_exato_1",
+        "eixo_exato_2",
+        "cota_fundacao_m",
+        "geometria_liquida_m3",
+        "estado_identificacao",
+        "estado_cadastro_fisico",
+        "elemento_id",
+        "evidencia_id",
+        "observacoes"
+      ]
+    },
+    "pendencias": {
+      "linhas": 23,
+      "colunas": [
+        "pendencia_id",
+        "ambito",
+        "campos",
+        "motivo",
+        "acao_necessaria",
+        "evidencia_id",
+        "estado",
+        "bloqueia"
+      ]
+    },
+    "evidencias": {
+      "linhas": 45,
+      "colunas": [
+        "evidencia_id",
+        "fonte_id",
+        "desenho",
+        "pagina_pdf",
+        "revisao",
+        "x0",
+        "y0",
+        "x1",
+        "y1",
+        "localizador",
+        "metodo"
+      ]
+    }
+  }
+}

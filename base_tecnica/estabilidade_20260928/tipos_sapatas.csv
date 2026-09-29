@@ -1,0 +1,29 @@
+tipo_id;designacao;a_m;b_m;h_m;ai_diametro_mm;ai_espacamento_m;as_diametro_mm;as_espacamento_m;ab_quantidade;ab_diametro_mm;tensao_contacto_admissivel_mpa;evidencia_id;estado_leitura;estado_geometria;estado_quantitativo;observacoes
+D01-S1;S1;PENDENTE;PENDENTE;0,40;12;0,15;10;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;PENDENTE;PENDENTE;A/B: VER PLANTA.
+D01-S2;S2;5,00;2,90;0,60;16;0,15;12;0,15;4;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D01-S3;S3;1,50;1,80;0,40;16;0,15;12;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D01-S4;S4;1,60;1,40;0,40;12;0,15;10;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D01-S5;S5;1,00;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D01-S6;S6;1,00;2,08;0,40;10;0,15;10;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D01-S7;S7;2,48;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D01-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S1;S1;PENDENTE;PENDENTE;0,40;12;0,15;10;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;PENDENTE;PENDENTE;A/B: VER PLANTA.
+D02-S2;S2;5,00;2,90;0,60;16;0,15;12;0,15;4;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S3;S3;1,50;1,80;0,40;16;0,15;12;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S4;S4;1,60;1,40;0,40;12;0,15;10;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S5;S5;1,00;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S6;S6;1,00;2,08;0,40;10;0,15;10;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D02-S7;S7;2,48;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D02-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S1;S1;PENDENTE;PENDENTE;0,40;12;0,15;10;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;PENDENTE;PENDENTE;A/B: VER PLANTA.
+D03-S2;S2;5,00;2,90;0,60;16;0,15;12;0,15;4;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S3;S3;1,50;1,80;0,40;16;0,15;12;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S4;S4;1,60;1,40;0,40;12;0,15;10;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S5;S5;1,00;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S6;S6;1,00;2,08;0,40;10;0,15;10;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D03-S7;S7;2,48;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D03-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S1;S1;PENDENTE;PENDENTE;0,40;12;0,15;10;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;PENDENTE;PENDENTE;A/B: VER PLANTA.
+D04-S2;S2;5,00;2,90;0,60;16;0,15;12;0,15;4;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S3;S3;1,50;1,80;0,40;16;0,15;12;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S4;S4;1,60;1,40;0,40;12;0,15;10;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S5;S5;1,00;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S6;S6;1,00;2,08;0,40;10;0,15;10;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."
+D04-S7;S7;2,48;1,00;0,40;10;0,15;10;0,15;2;8;0,25;D04-MAPA-SAPATAS;CONFIRMADO;CONFIRMADO;PENDENTE;"Tipo do mapa; não é contagem de sapatas. Desenvolvimentos, interseções e volumes líquidos pendentes."

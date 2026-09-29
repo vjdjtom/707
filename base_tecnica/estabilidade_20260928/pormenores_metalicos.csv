@@ -1,0 +1,10 @@
+pormenor_id;designacao;perfil_literal;chapa_b_mm;chapa_h_mm;chapa_espessura_mm;numero_chapas_indicado;chumbadouros_quantidade_indicada;chumbadouros_diametro_mm;comprimento_desenvolvido_chumbadouro_mm;soldaduras_dimensionadas;evidencia_id;estado_leitura;estado_compatibilizacao;estado_quantitativo;observacoes
+D06-A;A;SHS 160x10;360;360;10;1;4;12;PENDENTE;PENDENTE;D06-PORMENOR-A;CONFIRMADO;CONFIRMADO;PENDENTE;"Secção A: 12Ø10 e estribos Ø8//0.15; cota vertical 600 mm. Não é comprimento desenvolvido de chumbadouro."
+D06-B;B;SHS 160x10;160;360;10;2;6;12;PENDENTE;PENDENTE;D06-PORMENOR-B;CONFIRMADO;CONFIRMADO;PENDENTE;Duas chapas indicadas. Não multiplicar chumbadouros automaticamente por chapa.
+D06-C;C;SHS 160x10;200;200;10;2;PENDENTE;12;PENDENTE;PENDENTE;D06-PORMENOR-C;CONFIRMADO;PENDENTE;PENDENTE;"DIVERGENCIA: planta indica 6 chumbadouros Ø12; secção C indica 4. Quantidade adotada PENDENTE."
+D06-D;D;SHS 160x10;260;360;10;1;6;12;PENDENTE;PENDENTE;D06-PORMENOR-D;CONFIRMADO;CONFIRMADO;PENDENTE;"Cota vertical 170 mm; desenvolvimento pendente."
+D06-E;E;SHS 160x10;200;360;10;1;6;12;PENDENTE;PENDENTE;D06-PORMENOR-E;CONFIRMADO;CONFIRMADO;PENDENTE;"Reforço 2Ø12 C/1.00; cota vertical 300 mm."
+D06-F;F;SHS 160x10;360;360;10;1;4;12;PENDENTE;PENDENTE;D06-PORMENOR-F;CONFIRMADO;CONFIRMADO;PENDENTE;"Cotas horizontais 400 mm nos ganchos; desenvolvimento pendente."
+D06-G;G;SHS 160x10;260;260;10;1;4;12;PENDENTE;PENDENTE;D06-PORMENOR-G;CONFIRMADO;CONFIRMADO;PENDENTE;Ligação ao piso 1.
+D06-H;H;SHS 160x10;PENDENTE;PENDENTE;10;2;6;12;PENDENTE;PENDENTE;D06-PORMENOR-H;CONFIRMADO;PENDENTE;PENDENTE;"DIVERGENCIA: chamada CHAPA 260x260x10; planta cotada 300x360. Duas chapas na secção; 6 chumbadouros indicados em cada extremidade. Cotas verticais 800 mm. Não resolver por desenho à escala."
+D06-I;I;SHS 160x10;360;360;10;1;4;12;PENDENTE;PENDENTE;D06-PORMENOR-I;CONFIRMADO;CONFIRMADO;PENDENTE;"Cotas horizontais 400 mm nos ganchos; desenvolvimento pendente."
