@@ -1,5 +1,9 @@
 # Continuidade — autos mensais da obra 707
 
+## Revisão de ANALISE_NORMAS.md — 29/09/2026
+
+Revisado o documento recebido da main no commit e7c3897, com ligação permanente ao original. Corrigidos mínimos de sobreposição, interpretação de ganchos, sinal da correção do perímetro, duplicação de ganchos, contagem por posições e coeficiente da massa linear. Retiradas atribuições normativas sem cláusula verificável e separados desperdício de compra e execução medida. Conferência com material técnico JRC e verificações aritméticas de contagem, perímetro e massa. A edição contratual/Anexo Nacional e os cortes reais continuam PENDENTES. Esta etapa altera apenas documentação; as planilhas e os quantitativos não foram atualizados.
+
 Atualizado em 28/09/2026.
 
 ## Objetivo acordado
