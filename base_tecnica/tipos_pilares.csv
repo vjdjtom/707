@@ -1,0 +1,13 @@
+tipo_id;designacao;secao_b_m;secao_h_m;diametro_m;betao_m3_por_m;cofragem_m2_por_m;aco_longitudinal_kg_por_m;desenho_fonte;estado;observacoes
+P1;P1;0,30;0,60;;0,180;1,800;18,348156;Desenho 05;CONFIRMADO;6Ø16 + 10Ø12. Cintas não incluídas no aço longitudinal por metro.
+P8;P8;0,30;0,60;;0,180;1,800;18,348156;Desenho 05;CONFIRMADO;6Ø16 + 10Ø12. Cintas não incluídas no aço longitudinal por metro.
+P2;P2;0,40;0,70;;0,280;2,200;44,193408;Desenho 05;CONFIRMADO;28Ø16. Cintas não incluídas.
+P3;P3;0,40;0,20;;0,080;1,200;14,796900;Desenho 05;CONFIRMADO;6Ø16 + 6Ø12. Cintas não incluídas.
+P4;P4;0,20;0,40;;0,080;1,200;14,796900;Desenho 05;CONFIRMADO;6Ø16 + 6Ø12. Cintas não incluídas.
+P5;P5;0,20;0,40;;0,080;1,200;14,796900;Desenho 05;CONFIRMADO;6Ø16 + 6Ø12. Cintas não incluídas.
+P6;P6;0,30;0,30;;0,090;1,200;26,042544;Desenho 05;CONFIRMADO;8Ø20 + 4Ø16. Cintas não incluídas.
+P7-INF;P7 inferior;0,50;0,30;;0,150;1,600;15,783360;Desenho 05;CONFIRMADO;10Ø16. Cintas não incluídas.
+P7-SUP;P7 superior;;;0,30;0,070686;;11,048352;Desenho 05;CONFIRMADO;Circular Ø30 cm; 7Ø16. Cofragem depende de critério/faces efetivamente cofradas.
+P9;P9;1,30;0,20;;0,260;3,000;33,884901;Desenho 05;CONFIRMADO;16Ø16 + 14Ø10. Cintas sobrepostas; desenvolvimento pendente.
+P10;P10;0,20;1,00;;0,200;2,400;37,880064;Desenho 05;CONFIRMADO;24Ø16. Cintas sobrepostas; desenvolvimento pendente.
+P11;P11;0,20;0,80;;0,160;2,000;23,280456;Desenho 05;CONFIRMADO;8Ø16 + 12Ø12. Cintas sobrepostas; desenvolvimento pendente.
