@@ -1,0 +1,3 @@
+elemento,troco,nivel_inferior_m,nivel_superior_m,intervalo_m,kg_m,referencia_reta_kg,estado_corte_real,fonte,pendencia
+A-E8-P1,P0-P1,-0.20,3.22,3.42,18.348,62.75016,PENDENTE,Des.07 p.10; Des.08 p.11,Confirmar faces e comprimentos por grupo de diametro
+A-E8-P1,P1-cobertura,3.22,6.45,3.23,18.348,59.264039999999994,PENDENTE,Des.07 p.10; Des.08 p.11,Confirmar associacao local do nivel 6.45 pela continuidade V4 e cortes

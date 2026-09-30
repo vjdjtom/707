@@ -101,3 +101,8 @@ Foi criada a visão vigente de implantação em [implantacao_fundacoes_20260929]
 O lote registra 10 grades de fração, 106 intervalos entre eixos, 140 referências de apoios, 10 cotas pontuais e 130 ocorrências consolidadas. Os eixos de apoio foram separados do centro geométrico da sapata. Dimensões nominais por tipo podem ser consultadas, mas limites líquidos, cotas altimétricas de referência, centros de sapata, volumes e qualquer medição de execução continuam PENDENTES. Nenhuma execução ou quantitativo final foi criado.
 
 Validações executadas: `validar_implantacao_fundacoes.py`, `validar_base_tecnica.py`, verificação de espaços no diff e compilação sintática do novo validador. Próxima etapa: cruzar cada apoio com a definição geométrica e cortes dos desenhos 07–26, liberando somente os campos confirmados por evidência.
+
+
+## Atualização de 30/09/2026 — modelos de cintas e níveis
+
+Criada [Memorias_Aco_707_Cintas_e_Niveis.xlsx](../planilhas/Memorias_Aco_707_Cintas_e_Niveis.xlsx), preservando as 12 abas anteriores e acrescentando dez modelos condicionais de cinta retangular e dois intervalos de níveis da fração A. Ver [memória e rastreabilidade](../base_tecnica/aco_cintas_20260930/README.md). Fórmulas e pesos conferidos, recálculo independente sem erros e teste de bloqueio de geometria inválida. Aplicação dos modelos, cintas interiores/sobrepostas, contagens por zona e cortes longitudinais continuam PENDENTES. Nenhum total final ou execução real foi lançado.

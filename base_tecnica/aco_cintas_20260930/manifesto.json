@@ -1,0 +1,66 @@
+{
+  "data": "2026-09-30",
+  "fonte": "docs/fontes/estabilidade_20260928/Estabilidade_260928_1.pdf",
+  "sha256": "be35a8fcf8f1c9bffec93659edb3065c124f0c56defd42a0c18aa084b2f7ca01",
+  "estado": "MODELOS_CALCULADOS_APLICACAO_PENDENTE",
+  "cortes_modelo": 10,
+  "intervalos_referencia": 2,
+  "evidencias": [
+    {
+      "id": "A-P0",
+      "desenho": "07",
+      "pagina_pdf": 10,
+      "recorte_pontos": [
+        40,
+        35,
+        300,
+        370
+      ]
+    },
+    {
+      "id": "A-P1",
+      "desenho": "07",
+      "pagina_pdf": 10,
+      "recorte_pontos": [
+        310,
+        35,
+        558,
+        370
+      ]
+    },
+    {
+      "id": "A-COB",
+      "desenho": "07",
+      "pagina_pdf": 10,
+      "recorte_pontos": [
+        570,
+        35,
+        790,
+        370
+      ]
+    },
+    {
+      "id": "A-CORTE-B-EIXO8",
+      "desenho": "08",
+      "pagina_pdf": 11,
+      "recorte_pontos": [
+        160,
+        325,
+        290,
+        520
+      ]
+    },
+    {
+      "id": "D05-FECHO",
+      "desenho": "05",
+      "pagina_pdf": 8,
+      "recorte_pontos": [
+        590,
+        25,
+        675,
+        142
+      ]
+    }
+  ],
+  "coordenadas": "pontos PDF; origem superior esquerda; x0,y0,x1,y1; paginas 1-based"
+}
