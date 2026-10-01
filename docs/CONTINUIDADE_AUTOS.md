@@ -106,3 +106,7 @@ Validações executadas: `validar_implantacao_fundacoes.py`, `validar_base_tecni
 ## Atualização de 30/09/2026 — modelos de cintas e níveis
 
 Criada [Memorias_Aco_707_Cintas_e_Niveis.xlsx](../planilhas/Memorias_Aco_707_Cintas_e_Niveis.xlsx), preservando as 12 abas anteriores e acrescentando dez modelos condicionais de cinta retangular e dois intervalos de níveis da fração A. Ver [memória e rastreabilidade](../base_tecnica/aco_cintas_20260930/README.md). Fórmulas e pesos conferidos, recálculo independente sem erros e teste de bloqueio de geometria inválida. Aplicação dos modelos, cintas interiores/sobrepostas, contagens por zona e cortes longitudinais continuam PENDENTES. Nenhum total final ou execução real foi lançado.
+
+## Atualização de 01/10/2026 — ilustração da laje F Piso 0
+
+Criada ilustração explicativa baseada na prancha 42 (p.45), separando armaduras inferiores e superiores por cor. Ver docs/ilustracoes/Laje_Piso0_FracaoF_LEIA_ME.md. Imagem gerada, sem escala e sem correspondência exata de contagens/posições; não constitui desenho de execução nem fonte de quantitativos. Original preservado.
