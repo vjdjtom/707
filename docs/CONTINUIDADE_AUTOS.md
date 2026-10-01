@@ -110,3 +110,8 @@ Criada [Memorias_Aco_707_Cintas_e_Niveis.xlsx](../planilhas/Memorias_Aco_707_Cin
 ## Atualização de 01/10/2026 — ilustração da laje F Piso 0
 
 Criada ilustração explicativa baseada na prancha 42 (p.45), separando armaduras inferiores e superiores por cor. Ver docs/ilustracoes/Laje_Piso0_FracaoF_LEIA_ME.md. Imagem gerada, sem escala e sem correspondência exata de contagens/posições; não constitui desenho de execução nem fonte de quantitativos. Original preservado.
+
+
+## Atualização de 01/10/2026 — quantidades na laje F Piso 0
+
+Acrescentado desenho com 30 chamadas identificadas na prancha 42 e memória de cálculo em docs/ilustracoes/Laje_F_P0_Desenho_Quantidades.pdf. Dados e rastreabilidade em base_tecnica/laje_f_p0_20261001. Subtotal parcial 677,0299 kg; total da laje PENDENTE. Malhas, bordos, detalhes e prolongamentos não confirmados não foram estimados. Multiplicações conferidas e três páginas inspecionadas.
