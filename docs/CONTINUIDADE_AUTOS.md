@@ -115,3 +115,8 @@ Criada ilustração explicativa baseada na prancha 42 (p.45), separando armadura
 ## Atualização de 01/10/2026 — quantidades na laje F Piso 0
 
 Acrescentado desenho com 30 chamadas identificadas na prancha 42 e memória de cálculo em docs/ilustracoes/Laje_F_P0_Desenho_Quantidades.pdf. Dados e rastreabilidade em base_tecnica/laje_f_p0_20261001. Subtotal parcial 677,0299 kg; total da laje PENDENTE. Malhas, bordos, detalhes e prolongamentos não confirmados não foram estimados. Multiplicações conferidas e três páginas inspecionadas.
+
+
+## Atualização — planilha preenchida com a laje F Piso 0
+
+Nova versão planilhas/Memorias_Aco_707_Laje_F_P0_Preenchida.xlsx. Aba Laje F P0 com os 30 grupos e 298 varões do levantamento de 01/10/2026, fórmulas de comprimento e peso, subtotal 677,0299 kg e resumo por diâmetro. Total da laje PENDENTE. Pesos lineares ligados à tabela existente. Mantidas as 14 abas anteriores; nenhuma execução real lançada. Testados recálculo com alteração de quantidade e bloqueio de subtotal com entrada ausente; entradas restauradas. Valores e fórmulas anteriores comparados integralmente, sem alterações; zero erros de fórmula na entrega.
